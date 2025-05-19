@@ -13,14 +13,14 @@ The dataset used in this project is a modified version of a publicly available [
 ## How to Install
 > [!TIP]
 > Run this project in VS Code
-1. Clone the repository
-   `git clone https://github.com/kimcarrington/olympic-gymnastics-analysis.git`
+1. Clone the repository\
+  `git clone https://github.com/kimcarrington/olympic-gymnastics-analysis.git`\
    `cd olympic-gymnastics-analysis`
-2. Create a virtual environment
+3. Create a virtual environment\
    `python3 -m venv venv`
-3. Activate virtual environment
+4. Activate virtual environment\
    `source venv/bin/activate`
-4. Install dependencies
+5. Install dependencies\
    `pip install -r requirements.txt`
    
 ## How to Use
