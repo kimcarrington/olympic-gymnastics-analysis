@@ -4,8 +4,7 @@ IPython.display
 numpy
 seaborn
 matplotlib
-scipy.stats
-statsmodels.stats.multicomp
+scipy
+statsmodels
 scikit_posthocs
 plotly.express
-statsmodels.api
